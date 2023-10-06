@@ -3,7 +3,7 @@
 ● 開發工具  
 – Dreamweaver、PHP、jQuery  
 – My Server  
-● 硬體  
+● 裝置  
 – 變流器、數位電表、溫度計  
 ● 系統畫面  
 – 充電站  
